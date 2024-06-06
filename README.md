@@ -1,4 +1,4 @@
-Codes for *Harnessing Physicians’ Propensities within EHR Data to Enhance the Objectivity of AI-Driven Clinical Decision-Making*
+Codes for *Harnessing Physicians’ Propensity within EHR Data to Enhance the Objectivity of AI-Driven Clinical Decision-Making*
 
 Codes can be implemented on the MIMIC-IV database by following:
 
