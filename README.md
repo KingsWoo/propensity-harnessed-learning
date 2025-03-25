@@ -1,5 +1,3 @@
-Codes for *Harnessing Physicians’ Propensity within EHR Data to Enhance the Objectivity of AI-Driven Clinical Decision-Making*
-
 Codes can be implemented on the MIMIC-IV database by following:
 
 1. Download MIMIC-IV (ver 2.2) from https://physionet.org/content/mimiciv/2.2/.
