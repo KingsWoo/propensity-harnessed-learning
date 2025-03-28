@@ -166,7 +166,7 @@ def MLP_model(params):
 
 
 
-def PhyC_model(params, w_pa=1):
+def PHL_model(params, w_pa=1):
     
     n_inputs = params['n_inputs']
     n_labels = params['n_labels']
